@@ -1,7 +1,7 @@
 {
   "name": "resize-canvas",
-  "description": "change size of an html5 canvas element without scaling or data loss - size down to crop",
-  "version": "0.0.1",
+  "description": "change dimensions of an html5 canvas element, resizing from a relative position on canvas (center by default) and preserving image data",
+  "version": "1.0.0",
   "author": {
     "name": "Will Hoag",
     "email": "dev@willhoag.com",
@@ -11,7 +11,7 @@
     "url": "https://github.com/willhoag/resize-canvas/issues"
   },
   "dependencies": {
-    "create-canvas": "^1.0.1",
+    "copy-canvas": "~0.0.1",
     "draw-to-canvas": "~0.0.4",
     "gl-vec2": "^1.0.0"
   },
