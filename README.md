@@ -1,3 +1,14 @@
+## ⚠️ Project retired / unmaintained
+
+This project is no longer maintained.
+
+It may contain dependencies with known critical security vulnerabilities. Do not use this project in production or as the basis for new work.
+
+Recommended action: use an actively maintained alternative, or fork and audit the code and dependencies yourself.
+
+---
+
+
 # resize-canvas
 
 [![Build Status](https://travis-ci.org/willhoag/resize-canvas.svg)](https://travis-ci.org/willhoag/resize-canvas)
